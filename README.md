@@ -1,9 +1,9 @@
 ##  🚀 About Me
 
 - 👋 Hi, I’m Anas Tazir
-- 👀 I’m interested in coding
+- 💞️ I’m love coding
 - 🌱 I’m currently learning typescript and docker
-- 💞️ I’m looking to collaborate on to open source
+- 👀 I’m looking to collaborate on to open source
 - 📫 How to reach me - atazir2018@gmail.com
 
 ## 🛠 Skills
@@ -25,14 +25,14 @@
 [![Flask Badge](https://img.shields.io/badge/-flask-%23000?style=for-the-badge&labelColor=black&logo=flask&logoColor=)](#)  
 
 
-## Databases
+### Databases
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=)](#)
 [![Sqlite Badge](https://img.shields.io/badge/-sqlite-%2307405e?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=)](#)
 
 
 
 ### ML/DL
-[![numpy Badge](https://img.shields.io/badge/-numpy-%23013243?style=for-the-badge&labelColor=black&logo=pandas&logoColor=)](#)
+[![numpy Badge](https://img.shields.io/badge/-numpy-%23013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=)](#)
 [![Pandas Badge](https://img.shields.io/badge/-Pandas-%23150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=)](#)
 [![Plotly Badge](https://img.shields.io/badge/-Plotly-%233F4F75?style=for-the-badge&labelColor=black&logo=plotly&logoColor=)](#)
 [![scikit-learn Badge](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=)](#)
@@ -45,3 +45,5 @@
 [ToDo List](https://github.com/anastazir/Todo-List-Website)  
 
 [Gallery Website](https://github.com/anastazir/Gallery-App-using-React-and-Firebase-)
+
+[Flask Blog](https://github.com/anastazir/flask-blog)
