@@ -1,9 +1,9 @@
 ##  🚀 About Me
 
 - 👋 Hi, I’m Anas Tazir
-- 💞️ I’m love coding
+- 💞️ I love coding
 - 🌱 I’m currently learning typescript and docker
-- 👀 I’m looking to collaborate on to open source
+- 👀 I’m looking forward to collaborate to open source
 - 📫 How to reach me - atazir2018@gmail.com
 
 ## 🛠 Skills
@@ -40,10 +40,11 @@
 [![Tensorflow Badge](https://img.shields.io/badge/-Tensorflow-%23FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=)](#)
 
 ## 📌 Pinned Repositories
+[Tensorflow Image Classification](https://github.com/anastazir/tensorflow-image-classification)
+
 [Word Hunt](https://github.com/anastazir/Dictionary-React-App-)  
 
 [ToDo List](https://github.com/anastazir/Todo-List-Website)  
 
 [Gallery Website](https://github.com/anastazir/Gallery-App-using-React-and-Firebase-)
 
-[Flask Blog](https://github.com/anastazir/flask-blog)
