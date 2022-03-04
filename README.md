@@ -44,7 +44,7 @@
 
 [Word Hunt](https://github.com/anastazir/Dictionary-React-App-)  
 
-[ToDo List](https://github.com/anastazir/Todo-List-Website)  
+[Deep Reinforcement Learning](https://github.com/anastazir/Multi-Agent-Deep-Reinforcement-Learning)  
 
 [Gallery Website](https://github.com/anastazir/Gallery-App-using-React-and-Firebase-)
 
