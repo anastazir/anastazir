@@ -15,7 +15,7 @@
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=)](#)
 
 
-### Frameworks
+### Frameworks and Libraries
 
 [![Tailwind_CSS Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=)](#)
 [![Material-UI Badge](https://img.shields.io/badge/-materialui-%230081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=)](#)
