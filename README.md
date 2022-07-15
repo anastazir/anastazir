@@ -18,11 +18,11 @@
 ### Frameworks and Libraries
 
 [![Tailwind_CSS Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=)](#)
-[![Material-UI Badge](https://img.shields.io/badge/-materialui-%230081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Express Badge](https://img.shields.io/badge/-express.js-%23404d59?style=for-the-badge&labelColor=black&logo=express&logoColor=)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Flask Badge](https://img.shields.io/badge/-flask-%23000?style=for-the-badge&labelColor=black&logo=flask&logoColor=)](#)  
+[![Flask Badge](https://img.shields.io/badge/-flask-%23000?style=for-the-badge&labelColor=black&logo=flask&logoColor=)](#)
+[![Docker Badge](https://img.shields.io/badge/docker-%230DB7ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)](#)
 
 
 ### Databases
@@ -42,7 +42,7 @@
 ## 📌 Pinned Repositories
 [Tensorflow Image Classification](https://github.com/anastazir/tensorflow-image-classification)
 
-[Word Hunt](https://github.com/anastazir/Dictionary-React-App-)  
+[Movie Recommendations](https://github.com/anastazir/movie-db)  
 
 [Deep Reinforcement Learning](https://github.com/anastazir/Multi-Agent-Deep-Reinforcement-Learning)  
 
