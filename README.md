@@ -48,6 +48,9 @@
 
 [Gallery Website](https://github.com/anastazir/Gallery-App-using-React-and-Firebase-)
 
+
+## 📈 Stats
+
 <div align="center">
 
 ---
