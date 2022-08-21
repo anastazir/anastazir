@@ -55,8 +55,6 @@
 
 ![anastazir's Github Stats](https://github-readme-stats.vercel.app/api?username=anastazir&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anastazir&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2234AE&fire=D3D3D3&currStreakLabel=D3D3D3&sideNums=7A7ADB)
-
 ![anastazir's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anastazir&hide_border=true&theme=redical)
 
 </div>
