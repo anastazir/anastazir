@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m Anas Tazir
 - 💞️ I love coding
-- 🌱 I’m currently learning docker
 - 👀 I’m looking forward to collaborate to open source
 - 📫 How to reach me - atazir2018@gmail.com
 
