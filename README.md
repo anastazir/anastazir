@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Anas Tazir
 - 💞️ I love coding
-- 👀 I’m looking forward to collaborate to open source
+- 💼 I’m currently working in Deloitte
 - 📫 How to reach me - atazir2018@gmail.com
 
 ## 🛠 Skills
