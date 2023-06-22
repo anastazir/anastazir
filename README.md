@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Anas Tazir
 - 💞️ I love coding
-- 💼 I’m currently working in Deloitte as an intern
+- 💼 I recently completed my internship at Deloitte
 - 📫 How to reach me - atazir2018@gmail.com
 
 ## 🛠 Skills
